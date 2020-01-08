@@ -19,7 +19,7 @@ a{
 
 <h1>Andy Kuo</h1>
 <hr>
-<img src="1.jpg" alt="Avatar" style="width:125px" align="center">
+<img src="1.jpg" alt="Avatar" style="width:150px" align="center">
 <p>Name : 郭珈源</p>
 <p>Constellation : Taurus</p>
 <p>Study : 
@@ -47,6 +47,6 @@ function ShowTime(){
 }
 </script>
 <body onload="ShowTime()">
-<div onclick="ChangeColor('white')" style="background-color: gray; border:3px double; width:150px;height:60px;float:right;">
+<div onclick="ChangeColor('white')" style="background-color: gray; border:3px double; width:150px;height:80px;float:right;">
 <div id="showbox"></div>
 
