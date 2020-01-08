@@ -22,7 +22,7 @@ a{
 <hr>
 <img src="1.jpg" alt="Avatar" style="width:300px" align="center">
 <p>NAME : 郭珈源</p>
-<p>Constellation : Taurus</p>
+<p>CONSTELLATION : Taurus</p>
 <p>STUDY : 
 <ul>
   <li>桃園市振聲國中</li>
