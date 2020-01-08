@@ -1,10 +1,9 @@
-<html>
-<head>
+
 <title>Page Title</title>
 <style>
 body {
   background-color: maroon;
-  text-align: center;
+  text-align: left;
   link: teal;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
@@ -12,7 +11,7 @@ body {
 a{
     color: yellow;
     font-family:標楷體;
-    text-align: center;
+    text-align: left;
 }
 </style>
 </head>
@@ -51,5 +50,3 @@ function ShowTime(){
 <div onclick="ChangeColor('white')" style="background-color: gray; border:3px double; width:150px;height:60px;float:right;">
 <div id="showbox"></div>
 
-</body>
-</html>
