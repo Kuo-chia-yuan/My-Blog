@@ -4,7 +4,7 @@
 <style>
 body {
   background-color: maroon;
-  text-align: left;
+  text-align: center;
   link: teal;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
@@ -12,7 +12,7 @@ body {
 a{
     color: yellow;
     font-family:標楷體;
-    text-align: left;
+    text-align: center;
 }
 </style>
 </head>
