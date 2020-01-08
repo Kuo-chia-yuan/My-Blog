@@ -18,7 +18,7 @@ a{
 
 <h1>Andy Kuo</h1>
 <hr>
-<img src="1.jpg" alt="Avatar" style="width:150px" align="center">
+<img src="1.jpg" alt="Avatar" style="width:200px" align="center">
 <p>Name : 郭珈源</p>
 <p>Constellation : Taurus</p>
 <p>Study : 
