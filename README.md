@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Page Title</title>
@@ -49,9 +48,8 @@ function ShowTime(){
 }
 </script>
 <body onload="ShowTime()">
-<div onclick="ChangeColor('white')" style="background-color: gray; border:3px double; width:150px;height:55px;float:right;">
+<div onclick="ChangeColor('white')" style="background-color: gray; border:3px double; width:150px;height:60px;float:right;">
 <div id="showbox"></div>
-</body>
 
 </body>
 </html>
