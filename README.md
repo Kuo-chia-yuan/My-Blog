@@ -14,7 +14,6 @@ a{
     text-align: left;
 }
 </style>
-</head>
 <body>
 
 <h1>Andy Kuo</h1>
