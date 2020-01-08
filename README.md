@@ -39,7 +39,7 @@ a{
 </p>
 <p>Email : 17831783andy@gmail.com</p>
 <p>Phone : 0968-679-232</p>
-<a href="https://www.google.com/search?q=%E9%87%91%E6%AD%A3%E6%81%A9+%E5%B7%9D%E6%99%AE&sxsrf=ACYBGNQlaFOJXyoJ-vlu9wrH725o7FfJdw:1578495645161&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjD_NXBovTmAhWi7HMBHRYpDTsQ_AUoAXoECAwQAw&biw=1536&bih=731">SURPRISE</a>
+<marquee><a href="https://www.google.com/search?q=%E9%87%91%E6%AD%A3%E6%81%A9+%E5%B7%9D%E6%99%AE&sxsrf=ACYBGNQlaFOJXyoJ-vlu9wrH725o7FfJdw:1578495645161&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjD_NXBovTmAhWi7HMBHRYpDTsQ_AUoAXoECAwQAw&biw=1536&bih=731">SURPRISE</a></marquee>
 
 <script language="JavaScript">
 function ShowTime(){
